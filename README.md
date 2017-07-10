@@ -1,6 +1,6 @@
 ## SETUP
 
-`gem install 'minitest'``
+`gem install 'minitest'`
 
 
 ## How to run  the tests
